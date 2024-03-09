@@ -6,13 +6,6 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 To prevent microsoft from taking it down
 
-<h3>To Nintendo Legal Team: You cannot defeat us, even if you take me down, more would come. If you taken them down as well, still more would come. You have lost this battle. </h3>
-
-<h4>This project DOES NOT suppot piracy, you are required to source your own games and keys, we make no money off this project (mainly so that Nintendon't sue us lol)</h4>
-
-
-<h4>This fork is to make sure Nintendo can't fuck over Yuzu. Long live emulation!</h4>
-
 This repo is created based on Yuzu EA 4176. Please contribute
 
 <h1 align="center">
